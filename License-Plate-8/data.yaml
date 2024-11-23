@@ -1,0 +1,12 @@
+names:
+- Plate
+nc: 1
+roboflow:
+  license: CC BY 4.0
+  project: license-plate-ajnsc
+  url: https://universe.roboflow.com/haqnal-hanif-iyadk/license-plate-ajnsc/dataset/8
+  version: 8
+  workspace: haqnal-hanif-iyadk
+test: ../test/images
+train: /content/Licence-Plate-Detection-using-YOLO-V8/License-Plate-8/train/images
+val: /content/Licence-Plate-Detection-using-YOLO-V8/License-Plate-8/valid/images
